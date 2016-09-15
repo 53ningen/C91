@@ -21,12 +21,26 @@ _(コルマールイメージ画像)_
 ◆ 観光案内所
 Office de Tourisme de Colmar
 
-🌍  https://www.tourisme-colmar.com/en/
-📍  Rue des Unterlinden, 68000 Colmar
-🏢  月〜土 9:00〜18:00
+🌍  https://www.tourisme-colmar.com/en/  
+📍  Rue des Unterlinden, 68000 Colmar  
+🏢  月〜土 9:00〜18:00  
    日     10:00〜13:00
 
-# コルマールの歩き方
+## コルマールの歩き方
+
+まずは、コルマールの街の中をゆっくりと走りながら解説してくれるプチトレインツアーに参加することをおすすめします。
+日本語でのガイドもあり、コルマールの有名どころをきっちりと押さえたツアーになっています。
+旧市街の観光案内所の近くにプチトレインツアーの集合場所があるので探してみましょう。
+
+◆ プチトレインツアー
+Le Petit Train de Colmar
+
+🌍  http://www.petit-train-colmar.fr/en/
+📍  3 Rue Kléber, 68000 Colmar
+🏢  9:00〜18:00 (時期による)
+💶  € 7.00
+
+
 
 
 
